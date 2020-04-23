@@ -24,5 +24,3 @@ def writedata():
         f.write(output + ',')
     f.write('\n')
     f.close()
-for i in range(0,9):
-    writedata()
