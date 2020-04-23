@@ -10,3 +10,4 @@ Poppin'Party声优Twitter关注者数统计
 大桥彩香 +0 198223  
 *无需授权，随意转载  
 *技术支持：申必壬  
+![image](https://github.com/EndlessSky512/Twitter-Followers-Of-Poppin-Party/blob/master/temp.png)
